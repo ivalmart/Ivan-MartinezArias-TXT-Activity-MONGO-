@@ -1,0 +1,14 @@
+{
+  "name": "mongodbactivity",
+  "version": "1.0.0",
+  "description": "MongoDB Activity for TXT Internship",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ivan A. Martinez-Arias",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
